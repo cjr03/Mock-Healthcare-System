@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #f0f2f5;
+  color: #1f2937;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-container {
+  width: 100%;
+  max-width: 1200px;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 25px;
+  justify-items: center;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+  max-width: 320px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.status {
+  display: inline-block;
+  padding: 5px 12px;
+  border-radius: 9999px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.status.notified { background-color: #d1fae5; color: #065f46; }
+.status.pending { background-color: #fef3c7; color: #78350f; }
+.status.failed { background-color: #fee2e2; color: #991b1b; }
+.status.default { background-color: #e5e7eb; color: #374151; }
+
+button.notify {
+  padding: 10px 18px;
+  background-color: #2563eb;
+  color: white;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 12px;
+  transition: background 0.2s ease-in-out;
+}
+
+button.notify:hover {
+  background-color: #1d4ed8;
+}
