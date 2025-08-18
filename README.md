@@ -1,4 +1,11 @@
 # Mock Healthcare System
+![TypeScript](https://img.shields.io/badge/TypeScript-deepskyblue)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Express.js](https://img.shields.io/badge/Express-yellow)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-olive)
+![React](https://img.shields.io/badge/C++-dodgerblue)
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
 
 A demo **TypeScript + Express + OpenAPI** application showcasing **API-first integration design**. Built to simulate how healthcare systems (EHRs, infusion clinics, pharmacies) can be integrated quickly using an OpenAPI spec and auto-generated clients.  
 
