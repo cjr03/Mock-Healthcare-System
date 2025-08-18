@@ -14,13 +14,12 @@ This project is designed as a portfolio/interview-ready example for integration 
 ---  
 
 ## Features 
-- **Express API** with mock data for patients and infusion appointments. 
+- **Express API** with mock data for patients and appointments. 
 - **Pharmacy notification endpoint** to simulate downstream integration. 
 - **OpenAPI 3.0 Spec** served with Swagger UI at `/docs`. 
-- **Generated TypeScript client** (`axios`-based) from the spec. 
+- **Generated TypeScript client** from the spec. 
 - **Stylized React client** Designed to visualized appointments, notify pharmacies, and visualized API docs link.
 - **API-first approach** → spec-driven development ensures type safety and faster integration. 
-- **Health check endpoint** at `/healthz`. 
 
 ---
 
