@@ -3,7 +3,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![Express.js](https://img.shields.io/badge/Express-yellow)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-olive)
-![React](https://img.shields.io/badge/C++-dodgerblue)
+![React](https://img.shields.io/badge/React-dodgerblue)
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 
