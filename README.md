@@ -9,6 +9,29 @@
 
 A demo **TypeScript + Express + OpenAPI** application showcasing **API-first integration design**. Built to simulate how healthcare systems (EHRs, infusion clinics, pharmacies) can be integrated quickly using an OpenAPI spec.  
 
+---
+
+## Table of Contents
+
+- [Screenshots & GIFs](#Screenshots--GIFs)
+- [Features](#Features)
+- [Setup & Run](#Setup--Run)
+- [Using Generated Client](#Using-Generated-Client)
+- [Using React Frontend](#Using-React-Frontend)
+
+---
+
+## Screenshots & GIFs
+
+### Notify Pharmacies
+<img src="docs/notify.gif" width="800px">
+
+### OpenAPI Schema and Endpoints
+<img src="docs/overview.png" width="800px">
+
+### OpenAPI Detailed Schema
+<img src="docs/schema.png" width="600px">
+
 ---  
 
 ## Features 
