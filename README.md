@@ -24,7 +24,7 @@ A demo **TypeScript + Express + OpenAPI** application showcasing **API-first int
 ## Screenshots & GIFs
 
 ### Notify Pharmacies
-<img src="docs/notify.gif" width="800px">
+<img src="docs/noti.gif" width="800px">
 
 ### OpenAPI Schema and Endpoints
 <img src="docs/overview.png" width="800px">
