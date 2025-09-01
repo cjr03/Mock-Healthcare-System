@@ -30,7 +30,7 @@ A demo **TypeScript + Express + OpenAPI** application showcasing **API-first int
 <img src="docs/overview.png" width="800px">
 
 ### OpenAPI Detailed Schema
-<img src="docs/schema.png" width="800px">
+<img src="docs/schema.png" width="300px">
 
 ---  
 
